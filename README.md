@@ -1,12 +1,12 @@
-# lab-pw-2017-1
+# exercicio1-pw-2017
 
-Laboratório da turma de Programação para Web.
+Exercicio de biografia da aula 28 de março de 2017
 
 ## Para rodar o projeto
 
 ### Para fazer clone.
 
-`git clone https://github.com/walison-moreira-ufg/lab-pw-2017-1`
+`git clone https://github.com/zeewstyle/exercicio1-pw-2017`
 
 ### Para rodar com o Tomcat.
 
@@ -16,16 +16,4 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
-`http://localhost:8080/lab-pw-2017-1` em qualquer navegador.
-
-### Para "empacotar" a aplicação.
-
-`mvnw package`
-
-## Para "preparar" o projeto
-
-### Para "embutir" o Maven no projeto.
-
-Não precisa fazer isso! Já foi feito. :)
-
-`mvn io.takari:maven:0.3.3:wrapper -Dmaven=3.3.9`
+`http://localhost:8080/exercicio1-pw-2017 no navegador.
